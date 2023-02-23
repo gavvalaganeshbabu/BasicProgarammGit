@@ -9,6 +9,7 @@ namespace BasicProgramms
            
 
              Even.IsEven(45);
+            Console.WriteLine("This is UC3");
              
         }
     }

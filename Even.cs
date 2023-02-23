@@ -7,7 +7,10 @@ namespace BasicProgramms
     public class Even
     {
         public static void IsEven(int a) {
-            if (a % 2 == 0) { Console.WriteLine("Even"); }
+            if (a % 2 == 0) { Console.WriteLine("Even");
+                Console.WriteLine("This Is UC3");
+            }
         }
+
     }
 }
